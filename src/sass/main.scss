@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display');
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:300,500,700,900');
 
 * {
   margin: 0;
@@ -122,7 +122,7 @@ p {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
